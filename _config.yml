@@ -60,6 +60,12 @@ defaults:
       type: episodes
     values:
       layout: episode
+  -
+    scope:
+      path: ""
+      type: episodes_cont
+    values:
+      layout: episode
 
 # Files and directories that are not to be copied.
 exclude:
