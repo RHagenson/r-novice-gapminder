@@ -41,6 +41,9 @@ collections:
   episodes:
     output: true
     permalink: /:path/
+  episodes_cont:
+    output: true
+    permalink: /:path/
   extras:
     output: true
 
@@ -60,10 +63,10 @@ exclude:
 # Turn off built-in syntax highlighting.
 highlighter: false
 
-github:
-  url: '/swc-releases/2016.06/r-novice-gapminder'
-
-
-github:
-  url: '/swc-releases/2016.06/r-novice-gapminder'
-
+# github:
+#   url: '/swc-releases/2016.06/r-novice-gapminder'
+#
+#
+# github:
+#   url: '/swc-releases/2016.06/r-novice-gapminder'
+#
