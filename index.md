@@ -2,6 +2,11 @@
 layout: lesson
 ---
 
+**Note: Today's lesson has been drastically cut down from the original Software
+Carpentry lesson by this name, and serves to introduce you to the
+R syntax and RStudio through use of their well-tested materials. Today does not
+represent a complete Software Carpentry workshop.**
+
 Introduction to R for non-programmers using gapminder data.
 
 The goal of this lesson is to teach novice programmers to write modular code
